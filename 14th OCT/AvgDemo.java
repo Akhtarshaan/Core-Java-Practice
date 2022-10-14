@@ -20,7 +20,7 @@ class AvgDemo
 		
 		
 		float sum = number1+ number2+ number3; // sum of numbers
-		System.out.println("The Average of Given Three Number is :" +sum/3); // deviding sum with 3 to finding the AVG
+		System.out.println("The Average of Given Three Number is :" +sum/3); // deviding sum with 3 to find the AVG
 		
 	}
 }
