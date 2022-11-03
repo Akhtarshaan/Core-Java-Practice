@@ -28,4 +28,4 @@ public class Test2 {
 		}
 		//end of main method
 }
-//end of class
+//end of class.
